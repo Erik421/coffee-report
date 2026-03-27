@@ -6,7 +6,11 @@
 ![screenshot](https://github.com/Erik421/coffee-report/blob/main/median_coffee.png)
 
 Добавление нового отчёта:
+
 1.Создать класс в reports/
+
 2.Наследоваться от BaseReport
+
 3.Реализовать build() и headers()
+
 4.Зарегистрировать в REPORTS
